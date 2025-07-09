@@ -1,4 +1,4 @@
-## Link to the website : https://quad-phase-alzheimer-s-detector.onrender.com/
+ Link to the website : https://quad-phase-alzheimer-s-detector.onrender.com/
 # Quad Phase Alzheimer's Detector
 This project implements a deep learning model that classifies Alzheimer's disease into four distinct stages using MRI scan images. The model is built with a Convolutional Neural Network (CNN) architecture that processes the image data to accurately predict the stage of the disease. The project is designed for early diagnosis and classification of Alzheimer's disease, aiding in medical decision-making.
 
